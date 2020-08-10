@@ -5,7 +5,7 @@ readme
 for
 creating
 merge
-conflict.
+conflict. - Tada
 This
 should
 be
@@ -13,7 +13,7 @@ a
 great
 learning
 experience.
-I 
+I - Aai
 hope
 and
 pray
