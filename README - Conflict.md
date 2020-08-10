@@ -5,7 +5,7 @@ readme
 for
 creating
 merge
-conflict. - Conflict
+conflict. - Tada - Conflict
 This
 should
 be
@@ -13,7 +13,7 @@ a
 great
 learning
 experience.
-I  - Eye
+I - Aai - Eye
 hope
 and
 pray
